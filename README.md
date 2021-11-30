@@ -1,1 +1,1 @@
-# Update your browser page
+# Static page starter for NextJS (Typescript) with i18n (i18next)
